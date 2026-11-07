@@ -1,0 +1,425 @@
+combined_info
+"Name: Nimzo-Larsen Attack
+Eco: A01
+Moves: 1. b3
+Style Tags: positional, solid, tricky
+Difficulty: beginner
+Plays As: White
+Key Ideas: White aims to fianchetto the queen’s bishop and exert pressure on the centre from the side, while keeping the pawn structure flexible.
+Description: The Nimzo‑Larsen Attack is a flexible, hypermodern opening that lets White develop the queen’s bishop to b2 and challenge Black’s central pawns from a distance. It suits players who like to control the centre indirectly and are comfortable with unbalanced pawn structures. Typical plans include pressuring the d5‑square, preparing e4 or c4, and using the bishop’s long diagonal to create threats. Common mistakes are moving the b‑pawn again too early or neglecting development, which can give Black a strong centre."
+"Name: Bird Opening
+Eco: A02
+Moves: 1. f4
+Style Tags: aggressive, tactical
+Difficulty: intermediate
+Plays As: White
+Key Ideas: White seeks early control of the e5‑square and opens the f‑file to launch a kingside attack while challenging Black’s central presence.
+Description: The Bird Opening is a flank opening that aims for an aggressive, attacking game. It suits players who like to fight for the initiative early and are comfortable with unbalanced positions. Typical plans involve pushing e4, developing the bishop to g2, and using the f‑file for pressure, while keeping an eye on the weak king’s side squares. Common mistakes are neglecting central development and allowing Black to seize the centre with …d5 and …e5."
+"Name: Zukertort Opening
+Eco: A04
+Moves: 1. Nf3
+Style Tags: solid, positional
+Difficulty: beginner
+Plays As: White
+Key Ideas: Develop the knight to a natural square, control the centre indirectly and keep options open for flexible piece placement.
+Description: The Zukertort Opening lets White develop calmly without committing central pawns early, making it a good choice for players who prefer a solid, flexible style. It suits beginners who want to learn piece development and transposition ideas. Typical plans involve a later c4 or d4 push, fianchettoing the bishop, and castling early. Common mistakes are grabbing space too early with pawn moves that block pieces or neglecting king safety."
+"Name: King's Indian Attack
+Eco: A07
+Moves: 1. Nf3 d5 2. g3
+Style Tags: solid, positional
+Difficulty: beginner
+Plays As: White
+Key Ideas: White builds a flexible setup, fianchettoes the king's bishop, and prepares a pawn advance on the kingside to launch an attack while keeping the center under control with pieces.
+Description: The King's Indian Attack is a quiet, system‑based opening that lets White develop quickly without memorising many theory lines. It suits players who like steady piece play and a later kingside assault, especially against Black’s solid pawn structures. Typical plans involve a fianchettoed bishop, a knight on f3, and a pawn storm with f‑ and g‑pawns to open lines toward the black king. Common mistakes are moving the same piece repeatedly, neglecting central counterplay, and launching the attack before the pieces are coordinated."
+"Name: Réti Opening
+Eco: A09
+Moves: 1. Nf3 d5 2. c4
+Style Tags: solid, positional
+Difficulty: intermediate
+Plays As: White
+Key Ideas: White aims to control the centre from the flanks, keeping the pawn structure flexible and preparing a later central break while developing pieces harmoniously.
+Description: The Réti is a flexible, hypermodern opening that lets White develop quietly and challenge Black’s centre from the side. It suits players who prefer a solid, strategic game and are comfortable with transpositions into various structures. Typical plans include fianchettoing the king’s bishop, playing c4‑c5 or d4 at the right moment, and using the knights to exert pressure. Common mistakes are grabbing space too early, neglecting development, or allowing Black to seize the centre unchallenged."
+"Name: English Opening
+Eco: A10
+Moves: 1. c4
+Style Tags: positional, solid
+Difficulty: beginner
+Plays As: White
+Key Ideas: White aims to control the centre from the flanks, using the c‑pawn to influence d5 and keep a flexible pawn structure.
+Description: The English Opening lets you develop pieces behind a solid pawn chain and avoid early direct confrontations. It suits players who prefer a slow buildup, focusing on piece placement and long‑term pressure rather than sharp tactics. Typical plans include expanding on the queenside, exchanging central pawns to free the bishops, and later striking in the centre or kingside when the position is ready. Common mistakes are moving the same piece repeatedly, neglecting development, and trying to force premature attacks before the position is coordinated."
+"Name: Englund Gambit
+Eco: A40
+Moves: 1. d4 e5
+Style Tags: aggressive, tactical, tricky
+Difficulty: intermediate
+Plays As: Black
+Key Ideas: Black sacrifices a pawn early to gain rapid development and seize the initiative against White's center.
+Description: The Englund Gambit is a sharp, surprise weapon that leads to unbalanced, tactical play. It suits players who enjoy active piece play and are comfortable with taking risks. Black aims for quick development, pressure on White's d‑pawn and open lines, often targeting the king before White can consolidate. A common mistake is trying to hold onto the pawn or ignoring Black's initiative, which can leave Black with a losing position."
+"Name: English Defense
+Eco: A40
+Moves: 1. d4 b6
+Style Tags: solid, defensive, counterattacking
+Difficulty: intermediate
+Plays As: Black
+Key Ideas: Black fianchettoes the queen's bishop and challenges White's centre from a distance, aiming to undermine d4 and c4 squares.
+Description: The English Defense is a flexible, hyper‑modern system that suits players who like to let White occupy the centre first and then strike back. Black develops the bishop to b7, prepares …e6 and …Bb7, and looks for breaks with …c5 or …e5 to undermine White's pawn chain. It works well for players comfortable with a slower, maneuvering game and who can handle slightly cramped positions. Common mistakes include neglecting development of the kingside pieces and allowing White to consolidate the centre without counter‑play."
+"Name: Colle System
+Eco: A40
+Moves: 1. d4 g6 2. Nf3 Bg7 3. e3 c5 4. Bd3 Qa5+
+Style Tags: solid, positional
+Difficulty: beginner
+Plays As: White
+Key Ideas: White develops quickly and prepares a central e4 pawn break while keeping a solid pawn structure.
+Description: The Colle System is a simple, system-based opening for White that emphasizes quick piece development and a later e4 push. It suits players who prefer clear, straightforward plans and want to avoid deep opening theory. Typical ideas include developing knights, placing the bishop on d3, castling early, and then preparing the central break with e4, often supported by c3 and Nbd2. Common mistakes are delaying the e4 advance, neglecting king safety, or launching premature attacks without proper piece coordination."
+"Name: Old Indian Defense
+Eco: A41
+Moves: 1. d4 d6 2. c4
+Style Tags: solid, positional, counterattacking
+Difficulty: intermediate
+Plays As: Black
+Key Ideas: Black seeks a flexible pawn structure, prepares a central pawn break and develops pieces behind a solid setup while keeping the king safe.
+Description: The Old Indian is a quiet, solid opening for Black that avoids early theory. It suits players who like to build a strong pawn chain and wait for the right moment to strike in the center. Typical plans involve developing the knights to natural squares, placing the bishop on a safe diagonal, and castling early. Common mistakes are playing too passively and allowing White to seize space with aggressive pawn advances."
+"Name: Benoni Defense
+Eco: A43
+Moves: 1. d4 c5
+Style Tags: aggressive, tactical, counterattacking
+Difficulty: intermediate
+Plays As: Black
+Key Ideas: Black seeks to undermine White's central d4 pawn with timely pawn breaks and active piece play, exchanging space for dynamic counter‑chances.
+Description: The Benoni is a sharp, unbalanced opening that suits players who enjoy active piece play and are comfortable with a cramped position. Black accepts less space in the centre in order to generate counter‑play on the queenside and through central pawn breaks. Typical plans involve rapid development, pressure on White's center, and creating threats before White can fully consolidate. Common mistakes are trying to hold the pawn chain too rigidly or neglecting development, which lets White solidify the spatial advantage."
+"Name: Trompowsky Attack
+Eco: A45
+Moves: 1. d4 Nf6 2. Bg5
+Style Tags: aggressive, tactical
+Difficulty: intermediate
+Plays As: White
+Key Ideas: White develops the bishop early to put pressure on Black's knight and create threats before Black can complete normal development.
+Description: The opening gives White an active piece early and suits players who like to seize the initiative. It works well against players who prefer solid, slow setups because the bishop can quickly become a nuisance. Typical plans involve exchanging the bishop for the knight, then playing c4 or e4 to open the centre. A common mistake is delaying development of the other pieces, allowing Black to equalise easily."
+"Name: Torre Attack
+Eco: A48
+Moves: 1. d4 Nf6 2. Nf3 g6 3. Bg5
+Style Tags: solid, positional
+Difficulty: beginner
+Plays As: White
+Key Ideas: White develops the bishop to g5 early to put pressure on Black's knight and control the e5 square while keeping a flexible pawn structure.
+Description: The Torre Attack is a quiet system that lets White avoid heavy theory and play a simple plan. It suits players who prefer steady development and want to limit Black's counter‑play. Typical ideas are to castle quickly, play c3 and e4 to claim the centre, and use the bishop on g5 to exchange the key defender. Common mistakes are moving the bishop multiple times or trying to force an early attack before the centre is secure."
+"Name: London System
+Eco: A48
+Moves: 1. d4 Nf6 2. Nf3 g6 3. Bf4
+Style Tags: solid, positional
+Difficulty: beginner
+Plays As: White
+Key Ideas: White aims for a solid, flexible setup with the queen's bishop on its natural square, a strong pawn chain centered on d‑pawn supported by the e‑pawn, and quick development of the knights, keeping the centre under control while preparing a safe king.
+Description: The London System is a quiet, solid opening that lets White develop without memorising long theory. It suits players who prefer a safe, strategic game and like to build a strong pawn centre before launching attacks. Typical plans involve developing the queen’s bishop to its natural square, supporting the d‑pawn with the e‑pawn, and later deciding whether to expand in the centre or launch a kingside attack. Common mistakes are moving the bishop too early, neglecting king safety, or trying to force premature pawn breaks."
+"Name: Benko Gambit
+Eco: A57
+Moves: 1. d4 Nf6 2. c4 c5 3. d5 b5
+Style Tags: aggressive, tactical, counterattacking
+Difficulty: intermediate
+Plays As: Black
+Key Ideas: Black sacrifices a pawn to gain long‑term pressure on the queenside and control of the a‑ and b‑files.
+Description: The Benko Gambit is a dynamic opening that suits players who like active piece play and long‑term pressure rather than immediate material grabs. Black gives up a pawn early to obtain strong control of the a‑ and b‑files and to create lasting threats against White’s queenside. Typical plans involve placing rooks on the open files, pressuring the c‑ and a‑pawns, and using the bishop on the long diagonal. Common mistakes are trying to hold onto the pawn too long or ignoring Black’s piece activity, which lets Black’s initiative grow."
+"Name: Dutch Defense
+Eco: A80
+Moves: 1. d4 f5
+Style Tags: aggressive, counterattacking, solid
+Difficulty: intermediate
+Plays As: Black
+Key Ideas: Black seeks to control the e4 square and generate a kingside attack while keeping a flexible pawn structure.
+Description: The Dutch Defense is an aggressive opening where Black immediately challenges White's centre with ...f5, creating unbalanced positions. It suits players who enjoy active piece play and attacking chances on the kingside, but it demands careful handling of the weakened dark‑squared diagonal. Typical plans include advancing the g‑ and e‑pawns, developing the bishop to g7 or e7, and using the f‑pawn to support a kingside assault. Common mistakes are neglecting king safety, overextending the pawn chain, and allowing White to dominate the centre with e4."
+"Name: Pirc Defense
+Eco: B00
+Moves: 1. e4 d6
+Style Tags: solid, counterattacking
+Difficulty: intermediate
+Plays As: Black
+Key Ideas: Black lets White build a strong pawn centre and then undermines it with timely pawn breaks and piece pressure.
+Description: The Pirc is a flexible, hypermodern opening where Black invites White to claim the centre with pawns and then attacks it from the flanks. It suits players who like solid structures and counter‑attacking chances rather than early tactical fireworks. Typical plans involve developing the kingside fianchetto, striking with ...c5 or ...e5, and using the central pawn tension to create activity. Common mistakes are grabbing space too early with ...e5 or neglecting development, which can leave Black cramped."
+"Name: Nimzowitsch Defense
+Eco: B00
+Moves: 1. e4 Nc6
+Style Tags: tricky, counterattacking
+Difficulty: intermediate
+Plays As: Black
+Key Ideas: Black develops the knight to c6, challenges White's central control and prepares a later ...d5 or ...e5 break while keeping the position flexible.
+Description: The Nimzowitsch Defense is a hypermodern opening that invites White to occupy the centre and then attacks it from the flanks. It suits players who like unbalanced positions and are comfortable with counter‑play rather than early pawn grabs. Typical plans include striking with ...d5 or ...e5, developing the bishop to g4 or f5, and using the knights to pressure the centre. Common mistakes are grabbing space too early with ...e5 or ...d5 without preparation, which can leave Black behind in development."
+"Name: Scandinavian Defense
+Eco: B01
+Moves: 1. e4 d5
+Style Tags: solid, counterattacking
+Difficulty: beginner
+Plays As: Black
+Key Ideas: Black immediately contests White's central pawn, often exchanging on e4 to gain active piece play and a clear development plan.
+Description: The Scandinavian is a direct, straightforward opening that suits players who like to challenge the centre from move one. Black aims to trade the d‑pawn for White's e‑pawn and then develop the queen and knights quickly. Typical plans involve rapid piece activity and pressure on the e‑file while keeping the pawn structure simple. Common mistakes are moving the queen too many times early and neglecting king safety."
+"Name: Alekhine Defense
+Eco: B02
+Moves: 1. e4 Nf6
+Style Tags: aggressive, counterattacking
+Difficulty: intermediate
+Plays As: Black
+Key Ideas: Black invites White to occupy the centre with pawns and then attacks the overextended centre.
+Description: The Alekhine Defense is a provocative opening that lets White claim space early while Black prepares to undermine that centre later. It suits players who enjoy dynamic, counter‑attacking play and are comfortable letting the opponent overextend. Typical plans involve striking at the central pawn chain, developing pieces to active squares, and creating pressure on the centre. Common mistakes are grabbing material too quickly or allowing White’s centre to solidify without enough counter‑play."
+"Name: Modern Defense
+Eco: B06
+Moves: 1. e4 g6
+Style Tags: solid, positional, counterattacking
+Difficulty: intermediate
+Plays As: Black
+Key Ideas: Black fianchettos the king's bishop, delays occupying the centre, and later attacks White's central pawns with pieces and pawn breaks.
+Description: The Modern Defense is a flexible, hypermodern system that suits players who like to let the opponent build a pawn centre first. It works well for those comfortable with piece play and waiting for the right moment to strike back with ... or ... . Typical plans involve a kingside fianchetto, timely ...‑breaks, and exchanging the dark‑squared bishop for White's strong centre. Common mistakes are grabbing space too early with ... or neglecting king safety while the bishop remains on the long diagonal."
+"Name: Caro-Kann Defense
+Eco: B10
+Moves: 1. e4 c6
+Style Tags: solid, defensive, positional
+Difficulty: intermediate
+Plays As: Black
+Key Ideas: Black aims for a solid pawn structure, controls the center with pieces, and prepares to develop the light‑squared bishop while keeping the king safe.
+Description: The Caro‑Kann gives Black a sturdy, less risky way to meet 1.e4, ideal for players who prefer a calm, strategic game rather than sharp tactics. It suits players who like to build a strong, flexible pawn chain and develop pieces harmoniously. Typical plans involve exchanging the d‑pawn for White’s e‑pawn, developing the bishop outside the pawn chain, and later striking in the center with ...c5 or ...f6. Common mistakes are playing too passively, neglecting development, or trying to force premature attacks before the position is ready."
+"Name: Sicilian Defense
+Eco: B20
+Moves: 1. e4 c5
+Style Tags: aggressive, tactical, counterattacking
+Difficulty: intermediate
+Plays As: Black
+Key Ideas: Black challenges White's central pawn on e4 with the c‑pawn, creating asymmetrical pawn structures that give Black active counterplay, especially on the queenside and centre.
+Description: The Sicilian Defense is a dynamic opening that seeks immediate counter‑chances rather than a symmetrical build‑up. It suits players who enjoy unbalanced positions and are comfortable generating active play on the queenside while contesting the centre. Typical plans include expanding with ... and targeting White's central and kingside weaknesses. Common mistakes are moving the same piece repeatedly, neglecting development, and allowing White to seize a strong central pawn majority."
+"Name: French Defense
+Eco: C00
+Moves: 1. e4 e6
+Style Tags: solid, positional, counterattacking
+Difficulty: intermediate
+Plays As: Black
+Key Ideas: Black seeks to undermine White's central pawn on e4 by striking with the pawn on the second rank, creating a solid pawn chain and preparing counterplay on the queen's side.
+Description: The French Defense gives Black a solid, sometimes slightly cramped position where the fight for the center is central. It suits players who enjoy strategic maneuvering and are comfortable with a blocked pawn structure. Typical plans involve challenging White's center, exchanging pieces to relieve cramped space, and launching a counter‑attack on the queen’s side. Common mistakes include trying to launch premature attacks before completing development and overlooking the weakness of the d5 square."
+"Name: Center Game
+Eco: C20
+Moves: 1. e4 e5 2. d4
+Style Tags: aggressive, tactical
+Difficulty: intermediate
+Plays As: White
+Key Ideas: White immediately challenges Black's central pawn to open lines and accelerate development for a rapid attack.
+Description: The Center Game is an open, aggressive opening that seeks early central tension and quick piece activity. It suits players who enjoy tactical opportunities and like to seize the initiative early. Typical plans involve rapid development, using the open centre to launch attacks on the king, especially targeting the f‑pawn and exploiting open files. Common mistakes include bringing the queen out too soon, neglecting king safety, and trying to hold onto the pawn at the cost of development."
+"Name: Danish Gambit
+Eco: C21
+Moves: 1. e4 e5 2. d4 exd4 3. c3
+Style Tags: aggressive, tactical
+Difficulty: intermediate
+Plays As: White
+Key Ideas: White sacrifices one or two central pawns to gain lead in development and open lines for a swift attack on Black's king.
+Description: The Danish Gambit is a sharp, attacking opening that suits players who like to seize the initiative early. By giving up material, White aims to develop pieces quickly and create dangerous threats against Black's king. It works best against opponents who are uncomfortable defending under pressure, but the sacrifice can backfire if Black consolidates and returns material. Common mistakes include delaying development, trying to hold onto the extra pawn, or underestimating Black's counter‑play."
+"Name: Bishop's Opening
+Eco: C23
+Moves: 1. e4 e5 2. Bc4
+Style Tags: aggressive, tactical
+Difficulty: beginner
+Plays As: White
+Key Ideas: Develop the bishop to c4 early to pressure the f7‑square and gain rapid piece activity while keeping the centre open.
+Description: The Bishop's Opening leads to open, attacking games and suits players who like to seize the initiative early. It works well for those who enjoy quick development and targeting the weak f7 point. Typical plans include castling quickly, bringing the queen and knights into the attack, and using the bishop’s diagonal to create threats. A common mistake is neglecting central pawn structure or over‑extending without enough support."
+"Name: Vienna Game
+Eco: C25
+Moves: 1. e4 e5 2. Nc3
+Style Tags: aggressive, tactical
+Difficulty: intermediate
+Plays As: White
+Key Ideas: White aims to control the d5 square, keep options for a central pawn advance or a quick f‑pawn push while developing pieces naturally.
+Description: The Vienna Game lets White develop the knight to c3 early, giving flexibility to play a quiet d4 or an aggressive f4 pawn storm. It suits players who like to keep options open and are comfortable with both calm and sharp play. Typical plans include building a strong centre with d4 or launching a kingside attack with f4 and Nf3. Common mistakes are neglecting development of the bishop and over‑extending the pawn structure before completing piece coordination."
+"Name: King's Gambit
+Eco: C30
+Moves: 1. e4 e5 2. f4
+Style Tags: aggressive, tactical
+Difficulty: intermediate
+Plays As: White
+Key Ideas: White offers a pawn to open the f‑file and seize rapid piece activity, aiming to attack Black's king before the material deficit can be consolidated.
+Description: The King's Gambit is a bold, attacking opening that suits players who enjoy sharp, open positions and are comfortable playing with a temporary material disadvantage. It works best for those who like quick piece development and direct threats against the opponent's king. Typical plans involve using the open lines to launch a swift assault, often with the bishop and queen targeting the vulnerable f7 square. Common mistakes include holding onto the sacrificed pawn too long or neglecting king safety, which can give Black a solid defensive setup."
+"Name: Latvian Gambit
+Eco: C40
+Moves: 1. e4 e5 2. Nf3 f5
+Style Tags: aggressive, tactical, tricky
+Difficulty: intermediate
+Plays As: Black
+Key Ideas: Black offers a pawn to open lines and generate fast piece activity aimed at the white king.
+Description: The Latvian Gambit is a sharp, attacking opening that tries to seize the initiative early. It suits players who like dynamic, risk‑taking chess and are comfortable handling complications. Black's main plan is to develop quickly, open the center and launch threats against White's king before the extra pawn can be consolidated. Common mistakes include delaying development, trying to hold onto the pawn, or underestimating White's counter‑play in the center."
+"Name: Elephant Gambit
+Eco: C40
+Moves: 1. e4 e5 2. Nf3 d5
+Style Tags: aggressive, tactical
+Difficulty: intermediate
+Plays As: Black
+Key Ideas: Black offers a pawn to seize the initiative, opening the centre and creating active piece play against White's king.
+Description: The Elephant Gambit is a sharp, attacking opening that suits players who like to seize the initiative early. By giving up material Black hopes to open lines for the pieces and put pressure on White's centre and king. It works best against opponents who are uncomfortable with unbalanced, tactical positions. Common mistakes include trying to hold onto the extra pawn too long or neglecting development, which lets Black's attack become overwhelming."
+"Name: Philidor Defense
+Eco: C41
+Moves: 1. e4 e5 2. Nf3 d6
+Style Tags: solid, defensive, positional
+Difficulty: intermediate
+Plays As: Black
+Key Ideas: Black seeks a solid pawn structure and coordinated piece development while gradually contesting White's central space.
+Description: The Philidor Defense provides a calm, solid framework that suits players who prefer a safe, strategic game over sharp tactics. Black builds a sturdy pawn chain in the center and develops pieces behind it, aiming to challenge White's central dominance at the right moment. Typical plans involve completing development, preparing a central pawn break, and launching a counter‑attack once the position is clarified. Common mistakes include allowing White to seize too much space early or delaying piece development, which can give White a lasting initiative."
+"Name: Petrov's Defense
+Eco: C42
+Moves: 1. e4 e5 2. Nf3 Nf6
+Style Tags: solid, defensive, counterattacking
+Difficulty: intermediate
+Plays As: Black
+Key Ideas: Black seeks early equality by exchanging pieces and maintaining a symmetrical, sound structure while preparing counter‑play.
+Description: The Petrov's Defense is a solid, defensive opening that aims for quick equality through early piece exchanges. It suits players who prefer safe, reliable positions and like to neutralise White's early initiative before looking for counter‑attacks. Typical plans involve developing the knights to natural squares, castling early, and finding active pawn breaks once the pieces are coordinated. Common mistakes include delaying development, allowing White to seize space, or over‑extending without sufficient preparation."
+"Name: Scotch Game
+Eco: C44
+Moves: 1. e4 e5 2. Nf3 Nc6 3. d4
+Style Tags: aggressive, tactical
+Difficulty: intermediate
+Plays As: White
+Key Ideas: White exchanges the d‑pawn for Black’s e‑pawn to open the centre and develop pieces rapidly, creating early pressure on Black’s position.
+Description: The Scotch leads to an open, lively game where White seeks quick development and central control. It suits players who like active piece play and are comfortable with early tactical chances. Typical plans include rapid piece development, targeting the e5 pawn and using the open d‑file. Common mistakes are delaying development, moving the queen too early, or allowing Black easy equality with solid pawn structures."
+"Name: Ponziani Opening
+Eco: C44
+Moves: 1. e4 e5 2. Nf3 Nc6 3. c3
+Style Tags: aggressive, tactical
+Difficulty: intermediate
+Plays As: White
+Key Ideas: White aims to build a strong centre with d4 while preparing rapid development and central tension.
+Description: The Ponziani is an ambitious opening that seeks early central control and active piece play. It suits players who like to fight for the centre from the start and are comfortable with sharp, tactical positions. Typical plans involve preparing d4 to open the centre and developing the bishops to natural squares. Common mistakes include delaying d4 or allowing Black to equalise with simple ...d5 or ...Nf6, losing the initiative."
+"Name: Three Knights Opening
+Eco: C46
+Moves: 1. e4 e5 2. Nf3 Nc6 3. Nc3
+Style Tags: solid, positional
+Difficulty: intermediate
+Plays As: White
+Key Ideas: Develop the knights quickly to control the central squares and keep options open for a central pawn break or piece deployment.
+Description: The Three Knights Opening is a flexible, classical start that suits players who value solid development and safe king placement. It works well for those who prefer a balanced game with chances to shift into more aggressive lines later. Typical plans include completing development with a bishop move, preparing the d‑pawn advance to challenge Black’s center, and castling early. Common mistakes are moving the same piece repeatedly, neglecting the d‑pawn push, or allowing Black to seize the initiative with an early ...d5."
+"Name: Four Knights Game
+Eco: C47
+Moves: 1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6
+Style Tags: solid, positional
+Difficulty: beginner
+Plays As: White
+Key Ideas: Develop the knights quickly, occupy the center with pawns, and keep the position flexible for a safe king and harmonious piece placement.
+Description: The Four Knights is a quiet, classical opening that suits players who like steady development and simple plans. It works well for beginners because the piece placement is natural and the king can be castled early. Typical ideas include controlling the centre, preparing pawn breaks, and choosing a calm middlegame or a more aggressive line later. Common mistakes are moving the same piece repeatedly or neglecting the central pawn tension."
+"Name: Italian Game
+Eco: C50
+Moves: 1. e4 e5 2. Nf3 Nc6 3. Bc4
+Style Tags: aggressive, solid, tactical
+Difficulty: beginner
+Plays As: White
+Key Ideas: Develop pieces rapidly, control the centre and aim at the vulnerable f7 square while preparing safe king safety.
+Description: The Italian Game is a lively opening that favours players who like quick development and active piece play. It suits beginners and club players who want clear plans such as targeting f7 and castling early. Typical ideas include using the bishop on c4 to pressure Black’s centre and coordinating knights for central control. Common mistakes are moving the same piece repeatedly, neglecting king safety, and allowing Black to equalise with simple ...d6 or ...Nf6."
+"Name: Ruy Lopez
+Eco: C60
+Moves: 1. e4 e5 2. Nf3 Nc6 3. Bb5
+Style Tags: positional, solid
+Difficulty: intermediate
+Plays As: White
+Key Ideas: White aims to control the center, develop quickly, and exert long‑range pressure on Black’s e5 pawn and the knight on c6 while preparing to castle.
+Description: The Ruy Lopez is a classical, strategic opening that favors players who like steady piece development and long‑term pressure. It is well suited to players who enjoy maneuvering and building small advantages rather than sharp attacks. Typical plans include completing development, castling, and later targeting the e5 pawn or the d5 break. Common mistakes are moving the same piece repeatedly, neglecting development, or trying to win material too early."
+"Name: Blackmar-Diemer Gambit
+Eco: D00
+Moves: 1. d4 d5 2. e4
+Style Tags: aggressive, tactical
+Difficulty: intermediate
+Plays As: White
+Key Ideas: White offers a pawn to gain quick piece activity and launch an early attack on Black's king.
+Description: The gambit leads to sharp, open positions where White relies on rapid development rather than material. It suits players who like attacking play and are comfortable with calculated risk. Typical plans involve using the lead in development to pressure Black's king and create threats before the pawn deficit can be consolidated. Common mistakes are moving the queen too early or neglecting king safety, allowing Black to equalize."
+"Name: Richter-Veresov Attack
+Eco: D01
+Moves: 1. d4 Nf6 2. Nc3 d5 3. Bg5
+Style Tags: aggressive, tactical
+Difficulty: intermediate
+Plays As: White
+Key Ideas: White develops quickly, pins the knight on f6 and aims to control the centre while putting pressure on Black's d‑pawn.
+Description: The opening leads to lively, unbalanced positions and suits players who like active piece play and early pressure. White aims to develop pieces quickly, pin the opponent’s knight and challenge Black’s centre, often preparing the e‑pawn break. It works well for players who are comfortable with tactical ideas and can handle the resulting complications. Common mistakes include neglecting king safety and allowing Black to equalise by breaking the pin early."
+"Name: Queen's Gambit
+Eco: D06
+Moves: 1. d4 d5 2. c4
+Style Tags: solid, positional, aggressive
+Difficulty: intermediate
+Plays As: White
+Key Ideas: White offers a pawn to divert Black’s central pawn, then uses the resulting lead in development and central space to dominate the board.
+Description: The Queen’s Gambit is a classic opening that favors players who like steady, strategic play while still having chances to launch attacks. It suits players who enjoy building a strong pawn centre and developing pieces quickly. Typical plans include controlling the centre with pawns, exchanging pieces to relieve pressure, and using the open c‑file for activity. Common mistakes are trying to hold onto the gambit pawn too long or neglecting piece development in favour of material."
+"Name: Queen's Gambit Declined
+Eco: D06
+Moves: 1. d4 d5 2. c4 b5
+Style Tags: aggressive, tricky
+Difficulty: intermediate
+Plays As: White
+Key Ideas: White keeps a strong centre while Black's early b‑pawn thrust creates weaknesses that White can target.
+Description: The line is an off‑beat reply to the Queen’s Gambit that tries to grab space on the queenside early. It suits players who like to punish premature flank moves and are comfortable playing against a slightly lagging Black development. White usually consolidates the centre and later attacks the over‑extended b‑pawn and the weak squares it leaves. A common mistake is to chase the b‑pawn immediately and neglect the central pawn majority."
+"Name: Slav Defense
+Eco: D10
+Moves: 1. d4 d5 2. c4 c6
+Style Tags: solid, positional
+Difficulty: intermediate
+Plays As: Black
+Key Ideas: Black builds a solid pawn structure, controls the central squares, and prepares flexible piece development while keeping the position resilient.
+Description: The Slav is a reliable opening that emphasizes a strong, compact pawn formation and steady piece placement. It suits players who prefer a positional, low‑risk style and like to dictate the pace of the game. Typical plans involve completing development, contesting the center at the right moment, and looking for breaks that improve the pawn structure. Common mistakes include moving the same piece repeatedly, neglecting development, and trying to force premature attacks before the position is ready."
+"Name: Queen's Gambit Accepted
+Eco: D20
+Moves: 1. d4 d5 2. c4 dxc4
+Style Tags: solid, positional, counterattacking
+Difficulty: intermediate
+Plays As: White
+Key Ideas: White lets Black keep the pawn temporarily to develop quickly, then regains the pawn while establishing a strong centre.
+Description: The Queen's Gambit Accepted is a classical opening that suits players who like steady, strategic play. White gives up the c‑pawn to open lines for the pieces and later recaptures it with a lead in development. Typical plans include rapid piece activity, central pawn breaks and using the open c‑file. Common mistakes are trying to hold onto the pawn too long or neglecting development, which lets Black equalise."
+"Name: Semi-Slav Defense
+Eco: D31
+Moves: 1. d4 d5 2. c4 e6 3. Nc3 c6
+Style Tags: solid, positional
+Difficulty: intermediate
+Plays As: Black
+Key Ideas: Black builds a solid pawn chain with ...d5 and ...c6, develops pieces behind it, and prepares timely central or queenside breaks.
+Description: The Semi‑Slav is a solid, flexible system for Black against 1.d4, ideal for players who prefer a sound structure and steady development. It focuses on a strong pawn chain on d5‑e6 while the c‑pawn supports the center and keeps options for ...c5 or ...dxc4. Typical plans involve developing knights to f6 and d7, placing the light‑squared bishop on d6 or b4, and later striking in the center or on the queenside. Common mistakes include being too passive, neglecting the c8‑bishop’s development, and allowing White to gain space with e4 without proper preparation."
+"Name: Tarrasch Defense
+Eco: D32
+Moves: 1. d4 d5 2. c4 e6 3. Nc3 c5
+Style Tags: solid, counterattacking, positional
+Difficulty: intermediate
+Plays As: Black
+Key Ideas: Black attacks White's centre early, accepting an isolated queen's pawn to gain active piece play and pressure on the centre.
+Description: The Tarrasch Defense is a solid but dynamic choice for Black, suited to players who like active piece play and are comfortable with an isolated queen’s pawn. It aims to challenge White’s central pawns quickly and create counter‑chances on the queenside and in the centre. Typical plans involve developing pieces to natural squares, putting pressure on d4, and using the open c‑file. Common mistakes are neglecting the weakness of the isolated pawn or allowing White to dominate the centre without counterplay."
+"Name: Grünfeld Defense
+Eco: D80
+Moves: 1. d4 Nf6 2. c4 g6 3. Nc3 d5
+Style Tags: counterattacking, tactical, aggressive
+Difficulty: intermediate
+Plays As: Black
+Key Ideas: Black lets White occupy the centre and then undermines it with timely pawn breaks and piece pressure.
+Description: The Grünfeld is a dynamic, hyper‑modern system where Black invites White to build a strong pawn centre and then attacks it from the flanks. It suits players who enjoy active piece play and are comfortable with complex, unbalanced positions. Typical plans involve striking at the centre with pawn breaks while developing pieces on the long diagonals. Common mistakes are trying to hold the centre passively or delaying the crucial pawn break, allowing White to consolidate a lasting advantage."
+"Name: Catalan Opening
+Eco: E00
+Moves: 1. d4 Nf6 2. c4 e6 3. g3
+Style Tags: solid, positional
+Difficulty: intermediate
+Plays As: White
+Key Ideas: White aims to fianchetto the king's bishop, control the long diagonal and build a strong central presence while keeping the pawn structure flexible.
+Description: The Catalan is a quiet, strategic opening that suits players who like steady pressure and long‑term plans. White develops the bishop to g2 and often plays c4‑d5 to challenge Black’s center. Typical ideas include exchanging on d5 to open the diagonal and using the queenside pawn majority. Common mistakes are playing too aggressively early or neglecting the central tension, which can give Black counterplay."
+"Name: Bogo-Indian Defense
+Eco: E11
+Moves: 1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+
+Style Tags: solid, positional
+Difficulty: intermediate
+Plays As: Black
+Key Ideas: Black aims to challenge White's centre by pinning the knight and keeping a flexible pawn structure that can strike at the right moment.
+Description: The Bogo‑Indian is a reliable opening for players who prefer a solid, maneuver‑oriented game rather than sharp, forced lines. It suits players who like to develop pieces calmly, control the centre indirectly, and wait for the right moment to break with pawn thrusts or piece activity. Typical plans involve maintaining the pin, completing development, and choosing a timely central or queenside pawn break. Common mistakes are ignoring the pin, over‑extending too early, or falling behind in development, which can give White a lasting space advantage."
+"Name: Queen's Indian Defense
+Eco: E12
+Moves: 1. d4 Nf6 2. c4 e6 3. Nf3 b6
+Style Tags: solid, positional
+Difficulty: intermediate
+Plays As: Black
+Key Ideas: Black seeks a flexible pawn structure, controls the central e4 square, and develops the queen's bishop to a long diagonal while keeping options open for piece placement.
+Description: The Queen's Indian Defense is a calm, strategic opening that fits players who prefer solid, maneuvering play over sharp tactics. It is well suited to players who like to control key squares and wait for the right moment to strike. Typical plans involve fianchettoing the bishop, contesting the center with pieces, and preparing breaks like ...c5 or ...e5 at the right time. Common mistakes are moving the queen's knight prematurely or neglecting development, which can give White an easy central advantage."
+"Name: Nimzo-Indian Defense
+Eco: E20
+Moves: 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4
+Style Tags: solid, positional, counterattacking
+Difficulty: intermediate
+Plays As: Black
+Key Ideas: Black aims to control the e4 square, often double White's c‑pawns, and develop pieces rapidly while exerting pressure on the centre.
+Description: The Nimzo‑Indian is a flexible, strategic opening that suits players who like to neutralise White’s centre and create long‑term imbalances. Black often pins the knight on c3, trades the bishop for it and accepts doubled c‑pawns in exchange for active piece play. Typical plans include pressuring the d4 pawn, playing ...c5 or ...d5 to challenge the centre, and using the bishop pair later. Common mistakes are allowing White an easy pawn break with e4 or neglecting development, which can give White a strong centre."
+"Name: King's Indian Defense
+Eco: E60
+Moves: 1. d4 Nf6 2. c4 g6 3. g3
+Style Tags: aggressive, counterattacking
+Difficulty: intermediate
+Plays As: Black
+Key Ideas: Black lets White build a strong centre, then strikes back with pawn breaks and a kingside attack while keeping flexible piece placement.
+Description: The King's Indian is a dynamic system that favours players who like to fight for the initiative after a solid opening. It suits players comfortable with complex middlegames and attacking chances on the king side. Typical plans involve preparing central pawn breaks and launching a pawn storm against the opponent's king while the queen‑side pieces stay flexible. Common mistakes are moving the same piece repeatedly, neglecting the central break, and starting the attack too early before the position is ready."

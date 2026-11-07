@@ -1,0 +1,54 @@
+eco,name,pgn,family
+A01,Nimzo-Larsen Attack,1. b3,Nimzo-Larsen Attack
+A02,Bird Opening,1. f4,Bird Opening
+A04,Zukertort Opening,1. Nf3,Zukertort Opening
+A07,King's Indian Attack,1. Nf3 d5 2. g3,King's Indian Attack
+A09,Réti Opening,1. Nf3 d5 2. c4,Réti Opening
+A10,English Opening,1. c4,English Opening
+A40,Englund Gambit,1. d4 e5,Englund Gambit
+A40,English Defense,1. d4 b6,English Defense
+A40,Colle System: Pterodactyl Variation,1. d4 g6 2. Nf3 Bg7 3. e3 c5 4. Bd3 Qa5+,Colle System
+A41,Old Indian Defense,1. d4 d6 2. c4,Old Indian Defense
+A43,Benoni Defense: Old Benoni,1. d4 c5,Benoni Defense
+A45,Trompowsky Attack,1. d4 Nf6 2. Bg5,Trompowsky Attack
+A48,Torre Attack: Fianchetto Defense,1. d4 Nf6 2. Nf3 g6 3. Bg5,Torre Attack
+A48,London System,1. d4 Nf6 2. Nf3 g6 3. Bf4,London System
+A57,Benko Gambit,1. d4 Nf6 2. c4 c5 3. d5 b5,Benko Gambit
+A80,Dutch Defense,1. d4 f5,Dutch Defense
+B00,Pirc Defense,1. e4 d6,Pirc Defense
+B00,Nimzowitsch Defense,1. e4 Nc6,Nimzowitsch Defense
+B01,Scandinavian Defense,1. e4 d5,Scandinavian Defense
+B02,Alekhine Defense,1. e4 Nf6,Alekhine Defense
+B06,Modern Defense,1. e4 g6,Modern Defense
+B10,Caro-Kann Defense,1. e4 c6,Caro-Kann Defense
+B20,Sicilian Defense,1. e4 c5,Sicilian Defense
+C00,French Defense,1. e4 e6,French Defense
+C20,Center Game,1. e4 e5 2. d4,Center Game
+C21,Danish Gambit,1. e4 e5 2. d4 exd4 3. c3,Danish Gambit
+C23,Bishop's Opening,1. e4 e5 2. Bc4,Bishop's Opening
+C25,Vienna Game,1. e4 e5 2. Nc3,Vienna Game
+C30,King's Gambit,1. e4 e5 2. f4,King's Gambit
+C40,Latvian Gambit,1. e4 e5 2. Nf3 f5,Latvian Gambit
+C40,Elephant Gambit,1. e4 e5 2. Nf3 d5,Elephant Gambit
+C41,Philidor Defense,1. e4 e5 2. Nf3 d6,Philidor Defense
+C42,Petrov's Defense,1. e4 e5 2. Nf3 Nf6,Petrov's Defense
+C44,Scotch Game,1. e4 e5 2. Nf3 Nc6 3. d4,Scotch Game
+C44,Ponziani Opening,1. e4 e5 2. Nf3 Nc6 3. c3,Ponziani Opening
+C46,Three Knights Opening,1. e4 e5 2. Nf3 Nc6 3. Nc3,Three Knights Opening
+C47,Four Knights Game,1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6,Four Knights Game
+C50,Italian Game,1. e4 e5 2. Nf3 Nc6 3. Bc4,Italian Game
+C60,Ruy Lopez,1. e4 e5 2. Nf3 Nc6 3. Bb5,Ruy Lopez
+D00,Blackmar-Diemer Gambit,1. d4 d5 2. e4,Blackmar-Diemer Gambit
+D01,Richter-Veresov Attack,1. d4 Nf6 2. Nc3 d5 3. Bg5,Richter-Veresov Attack
+D06,Queen's Gambit,1. d4 d5 2. c4,Queen's Gambit
+D06,Queen's Gambit Declined: Zilbermints Gambit,1. d4 d5 2. c4 b5,Queen's Gambit Declined
+D10,Slav Defense,1. d4 d5 2. c4 c6,Slav Defense
+D20,Queen's Gambit Accepted,1. d4 d5 2. c4 dxc4,Queen's Gambit Accepted
+D31,Semi-Slav Defense: Accelerated Move Order,1. d4 d5 2. c4 e6 3. Nc3 c6,Semi-Slav Defense
+D32,Tarrasch Defense,1. d4 d5 2. c4 e6 3. Nc3 c5,Tarrasch Defense
+D80,Grünfeld Defense,1. d4 Nf6 2. c4 g6 3. Nc3 d5,Grünfeld Defense
+E00,Catalan Opening,1. d4 Nf6 2. c4 e6 3. g3,Catalan Opening
+E11,Bogo-Indian Defense,1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+,Bogo-Indian Defense
+E12,Queen's Indian Defense,1. d4 Nf6 2. c4 e6 3. Nf3 b6,Queen's Indian Defense
+E20,Nimzo-Indian Defense,1. d4 Nf6 2. c4 e6 3. Nc3 Bb4,Nimzo-Indian Defense
+E60,"King's Indian Defense: Fianchetto Variation, Immediate Fianchetto",1. d4 Nf6 2. c4 g6 3. g3,King's Indian Defense
