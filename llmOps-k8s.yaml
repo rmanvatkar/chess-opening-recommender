@@ -1,38 +1,38 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: llmops-app
+  name: openingrecommender-app
   labels:
-    app: llmops
+    app: openingrecommender
 spec:
   replicas: 1
   selector:
     matchLabels:
-      app: llmops
+      app: openingrecommender
   template:
     metadata:
       labels:
-        app: llmops
+        app: openingrecommender
     spec:
       containers:
-      - name: llmops-container
-        image: llmops-app:latest  # Use local image
+      - name: openingrecommender-container
+        image: openingrecommender-app:latest  # Use local image
         imagePullPolicy: IfNotPresent
         ports:
           - containerPort: 8501
         envFrom:
           - secretRef:
-              name: llmops-secrets 
+              name: openingrecommender-secrets 
 
 ---
 apiVersion: v1
 kind: Service
 metadata:
-  name: llmops-service
+  name: openingrecommender-service
 spec:
   type: LoadBalancer
   selector:
-    app: llmops
+    app: openingrecommender
   ports:
     - protocol: TCP
       port: 80
