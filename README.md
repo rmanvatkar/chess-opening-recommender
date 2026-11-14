@@ -40,6 +40,19 @@ kubectl create secret generic openingrecommender-secrets --from-literal=GROQ_API
 kubectl apply -f llmOps-k8s.yaml
 ```
 
-## Notes
+## What I learned
 
-This is my first project. I built it while following an LLMOps course on Udemy and changed it from the course's anime recommender into a chess one.
+- How RAG works: retrieving relevant data first so the LLM doesn't make things up
+- Using an LLM to turn raw data into structured, useful descriptions
+- Packaging an app with Docker and running it on Kubernetes
+- Monitoring a cluster with Grafana
+
+## What I'd add next
+
+- App metrics like response time and errors, shown in Grafana
+- A way to check if the recommendations are actually good
+- Recommendations based on your own Lichess games
+
+## Credits
+
+Opening data from [lichess-org/chess-openings](https://github.com/lichess-org/chess-openings). Project structure based on an LLMOps course on Udemy.
