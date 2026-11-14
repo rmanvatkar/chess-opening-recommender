@@ -1,4 +1,11 @@
-venv/
-logs/
-ANIME_RECOMMENDER.egg-info/
+# Secrets
 .env
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Runtime
+logs/

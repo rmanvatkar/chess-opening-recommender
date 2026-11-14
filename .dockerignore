@@ -1,0 +1,9 @@
+# Never bake secrets into the image - the API key comes from a Kubernetes Secret
+.env
+
+.git/
+venv/
+logs/
+__pycache__/
+*.egg-info/
+docs/
